@@ -3,6 +3,6 @@
 For use with:
 https://www.skpang.co.uk/collections/teensy/products/teensy-4-0-nmea-2000-mfd-with-800x480-5-touch-lcd
 
-Requires the following library:
-https://github.com/ttlappalainen/NMEA2000
+Requires the following library:<br>
+https://github.com/ttlappalainen/NMEA2000<br>
 https://github.com/lvgl/lvgl
